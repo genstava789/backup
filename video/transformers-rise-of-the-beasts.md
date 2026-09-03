@@ -1,7 +1,7 @@
 ---
 tmdb_id: 667538
 videourl: >-
-  https://huggingface.co/buckets/nexus33rd/cloud/resolve/Transformers.Age.of.Extinction.2014.1080p.BluRay.x264.YIFY.mkv
+  https://huggingface.co/buckets/nexus33rd/cloud/resolve/Transformers.Rise.Of.The.Beasts.2023.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mkv
 title: 'Transformers: Rise of the Beasts'
 deskripsi: >-
   When a new threat capable of destroying the entire planet emerges, Optimus
@@ -11,9 +11,9 @@ deskripsi: >-
   ultimate battle to save Earth.
 image_url: 'https://image.tmdb.org/t/p/w1280/9NgtktUFLm9cnFDFaekx2ROh84f.jpg'
 rating: 7.2
+featured: false
+trending: false
 language: EN
-createdAt: 1788399146264
-updatedAt: 1788399146264
-date: '2026-09-03T01:32:26.264Z'
+updatedAt: 1788422656892
 ---
 
