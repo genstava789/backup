@@ -6,11 +6,11 @@ title: The Whisper Man
 deskripsi: >-
   When his young son vanishes, a widower enlists help from his estranged father,
   a retired detective who put away the serial killer now linked to the case.
-image_url: 'https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg'
+image_url: 'https://image.tmdb.org/t/p/w1280/rHGJWs4XjO88QL4o9PWY618CVY8.jpg'
 rating: 0
 featured: true
 trending: false
 language: EN
-updatedAt: 1788411412191
+updatedAt: 1788411424334
 ---
 
