@@ -13,5 +13,8 @@ image_url: 'https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg'
 rating: 6.2
 trending: true
 language: EN
+createdAt: 1788399146264
+updatedAt: 1788399146264
+date: '2026-09-03T01:32:26.264Z'
 ---
 

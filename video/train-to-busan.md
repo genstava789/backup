@@ -9,5 +9,8 @@ deskripsi: >-
 image_url: 'https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg'
 rating: 7.8
 language: KR
+createdAt: 1788399146264
+updatedAt: 1788399146264
+date: '2026-09-03T01:32:26.264Z'
 ---
 

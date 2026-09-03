@@ -14,5 +14,8 @@ deskripsi: >-
 image_url: 'https://image.tmdb.org/t/p/w500/lMLS2OFBbNYMSB1ZbVp4q2S4zTU.jpg'
 rating: 5.4
 language: EN
+createdAt: 1788399146264
+updatedAt: 1788399146264
+date: '2026-09-03T01:32:26.264Z'
 ---
 

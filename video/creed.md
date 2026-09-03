@@ -9,8 +9,9 @@ deskripsi: >-
   Creed.
 image_url: 'https://image.tmdb.org/t/p/w1280/quEM5Tm9dOvnU5WlqM5skQVXAxB.jpg'
 rating: 7.4
-featured: false
-trending: false
 language: EN
+createdAt: 1788399562766
+updatedAt: 1788402829583
+date: '2026-09-03T01:39:22.766Z'
 ---
 

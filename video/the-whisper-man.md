@@ -9,5 +9,8 @@ deskripsi: >-
 image_url: 'https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg'
 rating: 0
 language: EN
+createdAt: 1788399146264
+updatedAt: 1788399146264
+date: '2026-09-03T01:32:26.264Z'
 ---
 

@@ -9,5 +9,8 @@ deskripsi: >-
 image_url: 'https://image.tmdb.org/t/p/w1280/avstHzee45yEG2krW6snBgfycs9.jpg'
 rating: 7
 language: MS
+createdAt: 1788399146264
+updatedAt: 1788399146264
+date: '2026-09-03T01:32:26.264Z'
 ---
 

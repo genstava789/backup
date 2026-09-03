@@ -8,5 +8,8 @@ deskripsi: >-
   premonition about the impending end of humanity.
 rating: 5.6
 language: ID
+createdAt: 1788399146264
+updatedAt: 1788399146264
+date: '2026-09-03T01:32:26.264Z'
 ---
 
