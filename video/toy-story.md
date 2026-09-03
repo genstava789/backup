@@ -12,5 +12,6 @@ deskripsi: >-
 image_url: 'https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg'
 rating: 0
 featured: true
+language: ID
 ---
 

@@ -9,8 +9,6 @@ deskripsi: >-
   Cybertron forever.
 image_url: 'https://image.tmdb.org/t/p/w500/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg'
 rating: 8
-featured: false
-trending: false
 language: EN
 ---
 
