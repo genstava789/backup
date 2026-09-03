@@ -11,7 +11,7 @@ image_url: 'https://image.tmdb.org/t/p/w1280/5kmju0rHpro6g8YWdihio8SJ1jH.jpg'
 rating: 6.4
 featured: true
 trending: true
-language: ID
-updatedAt: 1788411610003
+language: EN
+updatedAt: 1788411668222
 ---
 
