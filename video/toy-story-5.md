@@ -9,11 +9,11 @@ deskripsi: >-
   they have to go head to head with the all-new threat to playtime.
 image_url: 'https://image.tmdb.org/t/p/w1280/aojc60D9HzRuUZEdpgkiuX0jA39.jpg'
 rating: 8.2
+featured: true
+trending: true
 language: EN
 subtitles: >-
   https://huggingface.co/buckets/nexus33rd/cloud/resolve/Backrooms%20(2026)%20%5B1080p%5D%20%5BWEBRip%5D%20%5B5.1%5D%20%5BYTS.GG%20-%20YTS.BZ%5D/Backrooms.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.GG%20-%20YTS.BZ%5D.srt
-createdAt: 1788399146264
-updatedAt: 1788399146264
-date: '2026-09-03T01:32:26.264Z'
+updatedAt: 1788496842167
 ---
 
