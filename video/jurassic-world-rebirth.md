@@ -14,8 +14,8 @@ deskripsi: >-
 image_url: 'https://image.tmdb.org/t/p/w1280/9qCiLMrADYeUnuuOLYkO1vjH7kx.jpg'
 rating: 6.3
 featured: false
-trending: false
+trending: true
 language: EN
-updatedAt: 1788496775555
+updatedAt: 1788574453940
 ---
 
