@@ -1,7 +1,7 @@
 ---
 tmdb_id: 1386315
 videourl: >-
-  https://huggingface.co/buckets/nexus33rd/cloud/resolve/Toy.Story.5.2026.Zee5.WEB-DL.HDRip.720p_INDO.mkv
+  https://huggingface.co/buckets/nexus33rd/cloud/resolve/The.Runner.2026.1080p.WEBRip.x264.mp4
 title: The Runner
 deskripsi: >-
   Maia Marten, a brilliant London lawyer, has her life shattered by a single
@@ -13,6 +13,6 @@ rating: 5.7
 featured: true
 trending: true
 language: EN
-updatedAt: 1788409001119
+updatedAt: 1788833607671
 ---
 
