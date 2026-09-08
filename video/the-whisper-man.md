@@ -1,7 +1,7 @@
 ---
 tmdb_id: 860508
 videourl: >-
-  https://huggingface.co/buckets/nexus33rd/cloud/resolve/BLEACH.Thousand.Year.Blood.War.S01E45.1080p.NF.WEB-DL.AAC2.0.H.264-VARYG.mkv
+  https://huggingface.co/buckets/nexus33rd/cloud/resolve/The.Whisper.Man.2026.1080p.BluRay.x264.mp4
 title: The Whisper Man
 deskripsi: >-
   When his young son vanishes, a widower enlists help from his estranged father,
@@ -11,6 +11,6 @@ rating: 0
 featured: true
 trending: true
 language: EN
-updatedAt: 1788497122066
+updatedAt: 1788833569135
 ---
 
