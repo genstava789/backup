@@ -15,5 +15,8 @@ rating: 8
 featured: false
 trending: false
 language: CN
+video_url: >-
+  https://huggingface.co/buckets/nexus33rd/cloud/resolve/Hachiko.2023.1080p.BluRay.x264.AAC5.1.mp4
+updatedAt: 1788998136788
 ---
 
