@@ -13,9 +13,10 @@ deskripsi: >-
   been hidden from the world for decades.
 image_url: 'https://image.tmdb.org/t/p/w1280/9qCiLMrADYeUnuuOLYkO1vjH7kx.jpg'
 rating: 6.3
-featured: false
 trending: true
 language: EN
+createdAt: 1788399146264
 updatedAt: 1788574453940
+date: '2026-09-03T01:32:26.264Z'
 ---
 

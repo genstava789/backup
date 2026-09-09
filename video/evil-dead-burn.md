@@ -10,11 +10,9 @@ deskripsi: >-
   that the vows she took in life survive even in death.
 image_url: 'https://image.tmdb.org/t/p/w1280/viHFZ7GlzMcmPbADvP4Vd6Ema0g.jpg'
 rating: 8.5
-featured: true
-trending: true
 language: EN
 createdAt: 1788399146264
-updatedAt: 1788399146264
+updatedAt: 1788935387411
 date: '2026-09-03T01:32:26.264Z'
 ---
 

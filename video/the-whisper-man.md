@@ -11,8 +11,8 @@ rating: 0
 featured: true
 trending: true
 language: EN
-video_url: >-
-  https://huggingface.co/buckets/nexus33rd/cloud/resolve/The.Whisper.Man.2026.1080p.BluRay.x264.mp4
+createdAt: 1788399146264
 updatedAt: 1788940788235
+date: '2026-09-03T01:32:26.264Z'
 ---
 

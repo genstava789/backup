@@ -10,9 +10,10 @@ deskripsi: >-
   survival.
 image_url: 'https://image.tmdb.org/t/p/w1280/flnL4bbRwinTp6gDr7M29oWHWXg.jpg'
 rating: 7.6
-featured: true
 trending: true
 language: EN
-updatedAt: 1788485389828
+createdAt: 1788485229812
+updatedAt: 1788586972641
+date: '2026-09-04T01:27:09.812Z'
 ---
 

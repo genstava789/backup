@@ -10,9 +10,9 @@ deskripsi: >-
   Charlie revives him, she quickly learns this is no ordinary yellow VW bug.
 image_url: 'https://image.tmdb.org/t/p/w1280/3tXprD4on1YFjTCc5ng5lDcDJX9.jpg'
 rating: 6.7
-featured: false
-trending: false
 language: EN
+createdAt: 1788399146264
 updatedAt: 1788422682125
+date: '2026-09-03T01:32:26.264Z'
 ---
 
