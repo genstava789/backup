@@ -9,5 +9,6 @@ rating: 8.5
 featured: false
 trending: false
 language: KR
+updatedAt: 1788941066622
 ---
 
