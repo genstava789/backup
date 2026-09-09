@@ -11,9 +11,11 @@ deskripsi: >-
   threatened.
 image_url: 'https://image.tmdb.org/t/p/w1280/dJdZcLn8t1ZLodoxaP4DJ6jgBKy.jpg'
 rating: 7.9
-language: ID
-createdAt: 1788399146264
-updatedAt: 1788944262041
-date: '2026-09-03T01:32:26.264Z'
+featured: false
+trending: false
+language: EN
+video_url: >-
+  https://huggingface.co/buckets/nexus33rd/cloud/resolve/BLEACH.Thousand.Year.Blood.War.S01E45.1080p.NF.WEB-DL.AAC2.0.H.264-VARYG.mkv
+updatedAt: 1788950472294
 ---
 
