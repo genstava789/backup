@@ -12,8 +12,9 @@ deskripsi: >-
   family.
 image_url: 'https://image.tmdb.org/t/p/w500/whY9rKS8p9Iw2fR2HTF7JAOTcr5.jpg'
 rating: 8
-featured: false
-trending: false
 language: CN
+createdAt: 1788998442831
+updatedAt: 1788998442831
+date: '2026-09-10T00:00:42.831Z'
 ---
 

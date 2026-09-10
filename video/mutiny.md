@@ -12,8 +12,8 @@ rating: 6.4
 featured: true
 trending: true
 language: EN
-video_url: >-
-  https://huggingface.co/buckets/nexus33rd/cloud/resolve/Hantu.Dalam.Sel.2026.1080p.NF.WEB-DL.x264.6CH-Pahe.in.mkv
+createdAt: 1788399146264
 updatedAt: 1788998280629
+date: '2026-09-03T01:32:26.264Z'
 ---
 

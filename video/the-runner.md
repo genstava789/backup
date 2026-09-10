@@ -10,11 +10,10 @@ deskripsi: >-
   of how far a mother will go to save her child.
 image_url: 'https://image.tmdb.org/t/p/w1280/6D2VpU0LrbVvtempoGTN909Ua7i.jpg'
 rating: 5.7
-featured: true
 trending: true
 language: EN
 createdAt: 1788402881599
-updatedAt: 1788940779483
+updatedAt: 1788946004729
 date: '2026-09-03T02:34:41.599Z'
 ---
 
