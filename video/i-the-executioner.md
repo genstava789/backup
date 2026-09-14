@@ -9,8 +9,9 @@ deskripsi: >-
   down a serial killer who has plunged the nation into turmoil.
 image_url: 'https://image.tmdb.org/t/p/w500/gAtP0usArK5gVOBObnsENKLwML8.jpg'
 rating: 7
-featured: false
-trending: false
 language: KR
+createdAt: 1789379066216
+updatedAt: 1789379066216
+date: '2026-09-14T09:44:26.216Z'
 ---
 
