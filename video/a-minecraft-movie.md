@@ -11,9 +11,7 @@ deskripsi: >-
   expert crafter, Steve.
 image_url: 'https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg'
 rating: 6.2
+trending: false
 language: EN
-createdAt: 1788399146264
-updatedAt: 1788585433184
-date: '2026-09-03T01:32:26.264Z'
 ---
 
