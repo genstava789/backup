@@ -11,7 +11,13 @@ deskripsi: >-
   expert crafter, Steve.
 image_url: 'https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg'
 rating: 6.2
+featured: false
 trending: false
 language: EN
+date: '2026-09-02T01:25:00.000Z'
+createdAt: 1788399146264
+updatedAt: 1788312300000
+video_url: >-
+  https://huggingface.co/buckets/nexus33rd/cloud/resolve/BLEACH.Thousand.Year.Blood.War.S01E45.1080p.NF.WEB-DL.AAC2.0.H.264-VARYG.mkv
 ---
 
