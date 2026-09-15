@@ -1,7 +1,7 @@
 ---
 tmdb_id: 1234821
 videourl: >-
-  https://huggingface.co/buckets/nexus33rd/cloud/resolve/BLEACH.Thousand.Year.Blood.War.S01E45.1080p.NF.WEB-DL.AAC2.0.H.264-VARYG.mkv
+  https://huggingface.co/buckets/nexus33rd/cloud/resolve/Jurassic.World.Rebirth.2025.1080p.BluRay.x264.AAC5.1.mp4
 title: Jurassic World Rebirth
 deskripsi: >-
   Five years after the events of Jurassic World Dominion, covert operations
@@ -20,6 +20,6 @@ date: '2026-09-03T10:24:00.000Z'
 createdAt: 1788399146264
 updatedAt: 1788431040000
 video_url: >-
-  https://huggingface.co/buckets/nexus33rd/cloud/resolve/BLEACH.Thousand.Year.Blood.War.S01E45.1080p.NF.WEB-DL.AAC2.0.H.264-VARYG.mkv
+  https://huggingface.co/buckets/nexus33rd/cloud/resolve/Jurassic.World.Rebirth.2025.1080p.BluRay.x264.AAC5.1.mp4
 ---
 
