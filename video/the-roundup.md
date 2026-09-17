@@ -16,5 +16,7 @@ language: KR
 date: '2026-09-17T12:04:00.000Z'
 createdAt: 1789646640000
 updatedAt: 1789646640000
+video_url: >-
+  https://huggingface.co/buckets/bryanorlas/cloud/resolve/The.Roundup.2022.1080p.BluRay.x264.AAC5.1.mp4
 ---
 
