@@ -1,7 +1,7 @@
 ---
 tmdb_id: 479718
 videourl: >-
-  https://huggingface.co/buckets/bryanorlas/cloud/resolve/The.Outlaws.2017.1080p.BluRay.x264.mp4?download=true
+  https://huggingface.co/buckets/bryanorlas/cloud/resolve/The.Outlaws.2017.1080p.BluRay.x264.mp4
 title: The Outlaws
 deskripsi: >-
   In Chinatown, law and order is turned upside down when a trio of feral Chinese
@@ -16,5 +16,7 @@ language: KR
 date: '2026-09-17T17:10:00.000Z'
 createdAt: 1789665000000
 updatedAt: 1789665000000
+video_url: >-
+  https://huggingface.co/buckets/bryanorlas/cloud/resolve/The.Outlaws.2017.1080p.BluRay.x264.mp4
 ---
 
