@@ -16,7 +16,7 @@ image_url: 'https://image.tmdb.org/t/p/w1280/f9mM7tDrZ3LlHPQu9I5A6TTxTb9.jpg'
 rating: 7.9
 featured: true
 trending: true
-language: ID
+language: EN
 date: '2026-10-06T15:09:17.362Z'
 createdAt: 1791299297613
 updatedAt: 1791299357362
