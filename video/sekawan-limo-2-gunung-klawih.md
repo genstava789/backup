@@ -13,7 +13,7 @@ image_url: 'https://snipboard.io/WaOPEU.jpg'
 rating: 7.1
 featured: false
 trending: false
-language: MS
+language: ID
 date: '2026-10-07T21:01:44.768Z'
 createdAt: 1791406800000
 updatedAt: 1791406904768
