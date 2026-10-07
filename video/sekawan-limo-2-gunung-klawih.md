@@ -14,9 +14,9 @@ rating: 7.1
 featured: false
 trending: false
 language: JV
-date: '2026-10-07T21:00:00.000Z'
+date: '2026-10-07T21:01:44.768Z'
 createdAt: 1791406800000
-updatedAt: 1791406800000
+updatedAt: 1791406904768
 video_url: >-
   https://huggingface.co/buckets/runarta/storage/resolve/Sekawan.Limo.2.2026.1080P.Nf.Web-Dl.Ddp5.1.H.264-Kqrm.mp4
 ---
