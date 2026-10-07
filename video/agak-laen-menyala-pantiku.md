@@ -12,8 +12,10 @@ rating: 8.3
 featured: false
 trending: false
 language: ID
-date: '2026-10-07T00:11:00.000Z'
+date: '2026-10-07T00:15:18.156Z'
 createdAt: 1791331860000
-updatedAt: 1791331860000
+updatedAt: 1791332118156
+video_url: >-
+  https://huggingface.co/buckets/runarta/storage/resolve/Agak.Laen.Menyala.Pantiku.2025.1080P.Nf.Web-Dl.Aac2.0.H.264-Kqrm.mp4
 ---
 
