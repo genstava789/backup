@@ -17,5 +17,7 @@ language: JV
 date: '2026-10-07T21:00:00.000Z'
 createdAt: 1791406800000
 updatedAt: 1791406800000
+video_url: >-
+  https://huggingface.co/buckets/runarta/storage/resolve/Sekawan.Limo.2.2026.1080P.Nf.Web-Dl.Ddp5.1.H.264-Kqrm.mp4
 ---
 
